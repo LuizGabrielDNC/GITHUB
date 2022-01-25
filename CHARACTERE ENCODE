@@ -1,0 +1,23 @@
+É importante distinguir claramente entre os conceitos de um conjunto de caracteres versus uma codificação de caracteres.
+
+Um conjunto de caracteres ou repertório compreende o conjunto de caracteres que se pode usar para um propósito específico -
+sejam aqueles necessários para suportar idiomas da Europa Ocidental em computadores, ou aqueles que uma criança chinesa aprenderá na escola na terceira série 
+(nada a ver com computadores) .
+
+Um conjunto de caracteres codificados é um conjunto de caracteres para o qual um número exclusivo foi atribuído a cada caractere.
+As unidades de um conjunto de caracteres codificados são conhecidas como pontos de código . 
+Um valor de ponto de código representa a posição de um caractere no conjunto de caracteres codificados. 
+Por exemplo, o ponto de código para a letra á no conjunto de caracteres codificados Unicode é 225 em decimal ou 0xE1 em notação hexadecimal.
+(Observe que a notação hexadecimal é comumente usada para se referir a pontos de código e será usada aqui.) Um ponto de código Unicode pode ter um valor entre 0x0000 e 0x10FFFF.
+
+
+Os conjuntos de caracteres codificados às vezes são chamados de páginas de código.
+
+A codificação de caracteres reflete a maneira como o conjunto de caracteres codificados é mapeado para bytes para manipulação em um computador.
+A figura abaixo mostra como caracteres e pontos de código no script Tifinagh (Berber) são mapeados para sequências de bytes na memória usando a codificação UTF-8 (que descrevemos nesta seção).
+Os valores dos pontos de código para cada caractere são listados imediatamente abaixo do glifo (ou seja, a representação visual) para aquele caractere na parte superior do diagrama.
+As setas mostram como eles são mapeados para sequências de bytes, onde cada byte é representado por um número hexadecimal de dois dígitos.
+Observe como os pontos de código Tifinagh mapeiam para três bytes, mas o ponto de exclamação mapeia para um único byte.
+https://www.w3.org/International/articles/definitions-characters/
+
+TUDO FUNCIONA COM NÚMEROS INTERPRETADOS PELA MÁQUINA REGANDO RESULTADO !! TABELA ASC OU UNICODE
