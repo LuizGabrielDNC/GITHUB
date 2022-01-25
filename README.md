@@ -12,3 +12,5 @@ LOCAL QUE CENTRALIZA SEU REPOSITORIO PARA QUE OUTRAS PESSOAS PODEM ACESSAR FAZER
 LEIA MAIS SOBRE O GITHUB EM SUA DOCUMENTAÇÃO 
 
 CLICK AQUI https://docs.github.com/pt/get-started
+
+https://www.youtube.com/watch?v=sgheXCK-Rfw
