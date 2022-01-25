@@ -13,4 +13,5 @@ LEIA MAIS SOBRE O GITHUB EM SUA DOCUMENTAÇÃO
 
 CLICK AQUI https://docs.github.com/pt/get-started
 
-https://www.youtube.com/watch?v=sgheXCK-Rfw
+
+AULA DE SEMANTICA DE VERSIONAMENTO https://www.youtube.com/watch?v=sgheXCK-Rfw
