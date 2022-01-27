@@ -18,3 +18,5 @@ AULA DE SEMANTICA DE VERSIONAMENTO https://www.youtube.com/watch?v=sgheXCK-Rfw
 
 
 ALGORITMO E ESTRUTURA DE DADOS EU ESTUDO COM FONTES DO YOUTUBE E DA MINHA FACULDADE DE ADS DA UNICESUMAR 
+
+aula sensacional sobre git -->> https://www.youtube.com/watch?v=kB5e-gTAl_s&list=RDCMUCm63tB8wsKOVvxoU4iMpS2A&start_radio=1&rv=kB5e-gTAl_s&t=231
