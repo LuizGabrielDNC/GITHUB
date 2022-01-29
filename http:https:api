@@ -1,0 +1,11 @@
+http  80 : protocolo de tranferencia de hipertexto de informações 
+o usuario digita a url que contem o endereço dns do  servidor que fornece uma resposta a requisição pedida
+devolve um html linguagem de marcação css js
+Tem toda uma estrutura formada para cada usabilidade de forma correta usa o get e post ..
+Sempre dar uma olhada nesse conteudo
+
+https 443 conteudo criptografado do servidor para o cliente criptografada usando ssl ou tls camada de segurança 
+integridade e confidencia trabalha na camada de aplicação 
+
+
+APIS INTERFACE DE PROGRAMAÇÃO CONJUNTO DE REGRAS PARA CRIAÇÃO DE APLICATIVOS E SUA UTILIZAÇÃO 
